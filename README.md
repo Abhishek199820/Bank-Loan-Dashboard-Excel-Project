@@ -60,7 +60,3 @@ The Dashboard provides the following insights:
 - Learn Excel dashboard development
 
 ---
-
-## 📜 License
-
-This dashboard is for **educational and analytical purposes**. Please provide credit if shared or modified for public or professional use.
